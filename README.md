@@ -10,7 +10,7 @@ BPSWallet is an offline Bitcoin wallet used to securely manage keys and create t
 
 ### Installation
 
-Dillinger requires Java 8 or higher.
+BPSWallet requires Java 8 or higher.
 
 Head to the [releases](https://github.com/Septem151/BPSWallet/releases) section for the executable .jar file. To start BPSWallet, run the following command:
 
